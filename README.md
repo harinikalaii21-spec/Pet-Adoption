@@ -2,7 +2,7 @@
 
 PawHome is a web-based platform that connects animal shelters with people who want to adopt. It replaces manual, paper-based adoption records with one online system for listing pets, applying to adopt, and tracking each request.
 
-**Live website:** 
+**Live website:**  https://harinikalaii21-spec.github.io/Pet-Adoption/
 
 ## Features
 
