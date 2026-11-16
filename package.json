@@ -1,0 +1,11 @@
+{
+  "name": "pawhome",
+  "version": "1.0.0",
+  "description": "PawHome - Pet Adoption Management System (Node.js + SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=22.5.0" },
+  "license": "MIT"
+}
